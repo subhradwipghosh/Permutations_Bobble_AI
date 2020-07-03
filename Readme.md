@@ -1,4 +1,4 @@
-Permutations of a word, input from a file using C
+# Permutations of a word, input from a file using C
 -------------------------------------
 >>>>>>>> How To Run/Compile <<<<<<<<<
 -------------------------------------
