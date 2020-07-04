@@ -19,6 +19,11 @@ v. To Run:
 ===========================================
 2) In Windows based system:
 -----------------------------------
+For GCC Compiler:
+https://sourceforge.net/projects/mingw/files/
+
+After downloading and installing Mingw from above link
+Follow the below steps:
 i. Open the folder containing all source file
 ii. Copy the csv file in the directory
 iii. Click on address bar and type cmd and hit Enter
