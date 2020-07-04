@@ -37,4 +37,5 @@ v. To Run:
       Write: (binary file name) >input file<
       e.g,   a file.csv
       (For powershell: ./a file.csv)
+N.B: For powershell, put ./ before every command to execute
 ============================================
